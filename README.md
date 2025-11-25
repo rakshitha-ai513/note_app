@@ -51,8 +51,8 @@ Icons: Lucide React
 Rich Text Editor: ContentEditable API
 State Management: React Hooks (useState, useRef)
 
-Usage
-Creating a Note
+#Usage
+#Creating a Note
 
 Click the "New Note" button in the sidebar
 Enter your note title
@@ -60,25 +60,25 @@ Add content using the rich text editor
 Add tags for organization (optional)
 Click "Save" to save your note
 
-Editing a Note
+#Editing a Note
 
 Select a note from the sidebar
 Click the "Edit" button
 Make your changes
 Click "Save" to update
 
-Searching Notes
+#Searching Notes
 
 Type in the search bar to filter notes by title or content
 Results update in real-time as you type
 
-Filtering by Tags
+#Filtering by Tags
 
 Click on tags in the filter section to filter notes
 Multiple tags can be selected for combined filtering
 Click again to remove a tag filter
 
-Deleting a Note
+#Deleting a Note
 
 Click the trash icon next to any note in the sidebar
 The note will be permanently deleted
